@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
     <app appid='chdaegcncahjoiglnidimhgaapheodag'>
         <updatecheck
-            codebase='https://raw.githubusercontent.com/gaurav-126/TestExtension/main/TestExt.crx'
+            codebase='https://github.com/gaurav-126/TestExtension/releases/download/v1.0.0/TestExt.crx'
             version='1.0.0' />
     </app>
 </gupdate>
